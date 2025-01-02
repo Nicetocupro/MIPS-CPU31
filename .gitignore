@@ -21,7 +21,6 @@
 *.vsm
 *.dcp
 *.vst
-*.bit
 *.bin
 *.prj
 *.xpr.lock
